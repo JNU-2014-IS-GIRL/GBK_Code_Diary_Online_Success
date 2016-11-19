@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/spring/login/Diary_Edit.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/spring/login/Diary_Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/spring/login/Diary_New.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/spring/login/Diary_Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/spring/login/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/spring/login/MyMenu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/spring/login/SysApplication.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

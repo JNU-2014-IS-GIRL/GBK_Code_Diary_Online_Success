@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/add_Daily"
+        android:title="@string/add_Daily"/>
+    <item 
+        android:id="@+id/about_Daily"
+        android:title="@string/about_Daily"
+        />
+
+</menu>

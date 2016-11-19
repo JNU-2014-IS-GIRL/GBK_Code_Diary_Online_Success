@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\diary_logo.png",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\drawable-hdpi\\diary_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dslv_launcher.png",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\drawable-hdpi\\dslv_launcher.png"
+    }
+]

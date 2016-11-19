@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout
+  		android:orientation="vertical"
+  		android:layout_width="match_parent"
+  		android:layout_height="wrap_content">
+    	<Button 
+    		android:id="@+id/new_Return_Button"
+    		android:layout_alignParentLeft="true"
+    		android:layout_width="55dip"
+    		android:layout_height="wrap_content"
+    		android:text="返回"
+    		style="@android:style/TextAppearance.Small"
+    		android:onClick="new_Return_OnClickListener"
+    		/>
+    	<Button 
+    		android:id="@+id/new_Save_Button"
+    		android:layout_alignParentRight="true"
+   			android:layout_width="55dip"
+    		android:layout_height="wrap_content"
+    		android:text="保存 "
+    		style="@android:style/TextAppearance.Small"
+    		android:onClick="new_Save_OnClickListener"
+        	/>
+    	<EditText 
+   		 	android:id="@+id/new_Title_EditText"
+    		android:layout_toLeftOf="@id/new_Save_Button"
+    		android:layout_toRightOf="@id/new_Return_Button"
+    		android:layout_width="match_parent"
+    		android:layout_height="wrap_content"
+			android:maxLines="1"
+    		android:hint="添加标题!"
+    		android:gravity="center"
+    		/>
+	</RelativeLayout>
+
+	    <EditText 
+	        android:id="@+id/new_Words_EditText"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:background="@android:drawable/editbox_background"
+	        android:gravity="top|left"
+	        android:hint="随便写点什么吧！"/>
+
+</LinearLayout>

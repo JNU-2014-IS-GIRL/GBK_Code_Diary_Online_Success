@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--一整个布局就是初始的登陆界面，因为要做得丰富一些，所以就布局嵌套-->
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--白色的字，居中放的-->
+    <!--自己设置字体字号和颜色-->
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:textColor="#ff5e9cff"
+        android:textSize="30dp"
+        android:text="用户登录"
+        android:typeface="serif"
+        android:gravity="center_horizontal"
+        android:id="@+id/title"/>
+
+    <!--白色的背景图，上有文本框上下两行-->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="wrap_content" 
+        android:layout_width="fill_parent" 
+        android:background="@drawable/pic_tip_bai_bg" 
+        android:layout_marginRight="50dp" 
+        android:layout_marginLeft="10dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp">
+
+            <!--background是背景的颜色啦-->
+            <!--根本看不着这个提示-->
+            <EditText
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:id="@+id/user_Login_Name"
+                android:background="@android:color/white"
+                android:maxLines="1"
+                android:textColor="@android:color/black"
+                android:hint="用户名"/>
+        </LinearLayout>
+
+        <View
+            android:layout_height="1dip"
+            android:layout_width="match_parent"
+            android:background="@android:color/darker_gray"
+            android:layout_marginRight="2dp"
+            android:layout_marginLeft="2dp"/>
+
+        <LinearLayout
+            android:orientation="horizontal" 
+            android:layout_height="wrap_content" 
+            android:layout_width="match_parent" 
+            android:layout_marginBottom="10dp">
+
+            <!--根本看不着这个提示-->
+            <EditText
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent" 
+                android:id="@+id/user_Login_Password" 
+                android:background="@android:color/white"
+                android:maxLines="1"
+                android:hint="登录密码"
+                android:textColor="@android:color/black"
+                android:inputType="textPassword"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--这是相对布局的话，控件就可以自由放置，比如：左右放置-->
+    <RelativeLayout
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+
+        <CheckBox
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="记住密码"
+            android:id="@+id/user_Login_CheckBox"/>
+
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/imageView1"
+            android:layout_marginRight="50dp"
+            android:src="@drawable/img_arrow_right"
+            android:layout_centerVertical="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content" 
+            android:textColor="@android:color/white" 
+            android:text="找回密码" 
+            android:id="@+id/textView1" 
+            android:layout_centerVertical="true" 
+            android:layout_toLeftOf="@+id/imageView1"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+
+        <!--白色的字，因为设置了橙色的背景，所以看得清楚-->
+        <Button
+            android:layout_height="39dp" 
+            android:layout_width="fill_parent" 
+            android:textColor="@android:color/white" 
+            android:text="登录" 
+            android:id="@+id/user_Login_Button" 
+            android:background="@drawable/orange_button" 
+            android:layout_marginLeft="10dp" 
+			android:layout_weight="1" 
+			android:onClick="onClickListener_Login"/>
+    </LinearLayout>
+
+</LinearLayout>

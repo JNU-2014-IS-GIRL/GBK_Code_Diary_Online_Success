@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_diary_layout.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\new_diary_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us_layout.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\about_us_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_item_name.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\menu_item_name.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_diary_layout.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\edit_diary_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_register_layout.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\user_register_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_login_layout.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\layout\\user_login_layout.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sat Nov 19 09:58:35 CST 2016
+base.0=E\:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_60ea184b5258f11aa07cd23f09e41fa2a3d2d9cd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d40000acb95ed888297144f13f7ae156e8c4f770\\classes.dex
+base.1=E\:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d40000acb95ed888297144f13f7ae156e8c4f770
+file.0=E\:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_60ea184b5258f11aa07cd23f09e41fa2a3d2d9cd\\classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\write_diary_menu.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\menu\\write_diary_menu.xml"
+    }
+]

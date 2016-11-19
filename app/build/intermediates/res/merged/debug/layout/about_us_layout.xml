@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#D2B48C"
+        >
+        <Button
+            android:layout_alignParentLeft="true"
+            android:id="@+id/about_Us_Button"
+            android:layout_width="55dip"
+            android:layout_height="wrap_content"
+            android:text="返回"
+            style="@android:style/TextAppearance.Small"
+            android:background="#D2B48C"
+            android:onClick="about_Us_OnClickListener"
+            />
+                <Button
+            android:layout_alignParentRight="true"
+            android:id="@+id/about_Not_Button"
+            android:layout_width="55dip"
+            android:layout_height="wrap_content"
+            android:background="#D2B48C"
+            />
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/about_Us_Button"
+        android:layout_toLeftOf="@+id/about_Not_Button"
+        android:text="关于日记本"
+        android:gravity="center"
+        style="@android:style/TextAppearance.Medium"
+        />
+    
+    </RelativeLayout>
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+    	<TextView 
+    	    android:id="@+id/about_logo"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:gravity="center"
+    	    android:text="享受生活，我的专属日记"
+    	    />
+    	<TextView 
+    	    android:id="@+id/about_author"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_alignLeft="@+id/about_logo"
+    	    android:layout_below="@+id/about_logo"
+    	    android:text="林孟祥"
+    	    />
+    	<TextView 
+    	    android:id="@+id/about_school"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_alignLeft="@+id/about_author"
+    	    android:layout_below="@+id/about_author"
+    	    android:text="西安科技大学"
+    	    />
+        <TextView
+            android:id="@+id/about_QQNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/about_school"
+    	    android:layout_below="@+id/about_school"
+            android:text="联系 QQ:1215416034"
+            
+            />
+        <TextView
+            android:id="@+id/about_Email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/about_QQNumber"
+            android:layout_below="@+id/about_QQNumber"
+            android:text="联系邮箱:linmx1994@163.com"
+            />
+        <TextView
+            android:id="@+id/about_CellPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/about_Email"
+            android:layout_below="@+id/about_Email"
+            android:text="联系手机:13720430419(西安)"
+            />
+        
+        ></RelativeLayout>
+
+</LinearLayout>

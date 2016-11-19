@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:3:1-72:12
+	package
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:4:5-63
+uses-sdk
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:10:9-34
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:13:5-63:19
+	android:label
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:16:9-44
+	android:theme
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.spring.login.MainActivity
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:label
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:22:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.spring.login.Diary_Login
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:theme
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:32:13-40
+activity#com.spring.login.MyMenu
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:37:9-39:20
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:38:13-35
+activity#com.spring.login.Diary_New
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:42:9-44:20
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:43:13-38
+activity#com.spring.login.Diary_Edit
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:47:9-49:20
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:48:13-39
+activity#com.spring.login.Diary_Register
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:theme
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:53:13-43
+activity#com.spring.login.Diary_About_Us
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:59:9-61:20
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:60:13-43
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:67:5-83
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:67:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:70:5-80
+	android:name
+		ADDED from E:\AndroidStudio2.2\android_studio_projects\Diary_Online_2\app\src\main\AndroidManifest.xml:70:22-78

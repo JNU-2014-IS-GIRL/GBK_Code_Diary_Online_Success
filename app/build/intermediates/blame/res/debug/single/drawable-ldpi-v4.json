@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\button.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\drawable-ldpi\\button.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\orange_button.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\drawable-ldpi\\orange_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\white_button.xml",
+        "source": "E:\\AndroidStudio2.2\\android_studio_projects\\Diary_Online_2\\app\\src\\main\\res\\drawable-ldpi\\white_button.xml"
+    }
+]
